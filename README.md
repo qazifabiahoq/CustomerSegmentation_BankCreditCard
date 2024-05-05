@@ -1,4 +1,4 @@
-# **Customer Segmentation Analysis for Marketing Strategy**
+# **Customer Segmentation Analysis for Bank Credit Card Marketing Strategy**
 
 # 1. Introduction
 
